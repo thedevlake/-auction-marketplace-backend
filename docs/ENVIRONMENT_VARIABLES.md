@@ -12,7 +12,7 @@ NODE_ENV=development
 # ============================================
 # DATABASE (REQUIRED)
 # ============================================
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/auction-marketplace?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/auction-marketplace?retryWrites=true&w=majority
 
 # ============================================
 # JWT AUTHENTICATION (REQUIRED)
